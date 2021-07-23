@@ -13,7 +13,7 @@ Search the existing issues to see if someone else has already opened one.
 
 ## 链接
 
-- 支付宝小程序开发助手 [插件市场链接](https://marketplace.visualstudio.com/items?itemName=alipay.minicode)
-    提供小程序相关业务能力的支持，如 API 补全、新建小程序页面、snippets 等。
-- AXML Language Features [插件市场链接](https://marketplace.visualstudio.com/items?itemName=alipay.appx-axml-language)
-    提供 AXML/ACSS/JS/JSON 等各种文件的代码提示、语法诊断、类型推断、定义跳转等功能的支持。
+- 支付宝小程序开发助手 [插件市场链接](https://marketplace.visualstudio.com/items?itemName=alipay.minicode)  
+  提供小程序相关业务能力的支持，如 API 补全、新建小程序页面、snippets 等。
+- AXML Language Features [插件市场链接](https://marketplace.visualstudio.com/items?itemName=alipay.appx-axml-language)  
+  提供 AXML/ACSS/JS/JSON 等各种文件的代码提示、语法诊断、类型推断、定义跳转等功能的支持。
