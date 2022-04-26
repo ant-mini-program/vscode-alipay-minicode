@@ -16,3 +16,13 @@ Search the existing issues to see if someone else has already opened one.
 - 支付宝小程序开发助手 [插件市场链接](https://marketplace.visualstudio.com/items?itemName=alipay.minicode)  
   提供小程序相关业务能力的支持，如 API 补全、新建小程序页面、snippets 等。
   提供 AXML/ACSS/JS/JSON 等各种文件的代码提示、语法诊断、类型推断、定义跳转等功能的支持。
+
+## FAQ
+
+### 为什么编辑 AXML/JS 等文件时没有提示？
+
+请确认打开的根目录有没有以下文件之一：
+- app.json
+- mini.project.json
+
+只有当这些文件存在时插件才会启动。
