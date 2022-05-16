@@ -22,7 +22,21 @@ Search the existing issues to see if someone else has already opened one.
 ### 为什么编辑 AXML/JS 等文件时没有提示？
 
 请确认打开的根目录有没有以下文件之一：
+
 - app.json
 - mini.project.json
 
 只有当这些文件存在时插件才会启动。
+
+### 如何创建 ts/less 模板文件？
+
+可以开启设置项：
+
+```jsonc
+{
+  // 创建 ts
+  "Mini-Program.scaffold.createTs": true,
+  // 创建 less
+  "Mini-Program.scaffold.createLess": true
+}
+```
